@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!--card view dimension -->
+    <dimen name="cardView_elevation">5dp</dimen>
+    <dimen name="cardCornerRadius">7dp</dimen>
+    <dimen name="contentPadding">10dp</dimen>
+
+</resources>
